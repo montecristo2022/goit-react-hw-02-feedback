@@ -1,9 +1,9 @@
 
-import Counter from "componentsCreatedByMe/Counter";
-import Dropdown from "componentsCreatedByMe/Dropdown";
+// import Counter from "componentsCreatedByMe/Counter";
+// import Dropdown from "componentsCreatedByMe/Dropdown";
 import Feedback from "componentsCreatedByMe/Feedback";
-import React, { Component } from "react";
-import ReactDOM from "react-dom";
+import React from "react";
+// import ReactDOM from "react-dom";
 
 
 export const App = () => {
